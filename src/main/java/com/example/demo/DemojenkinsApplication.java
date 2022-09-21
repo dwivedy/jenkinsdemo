@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemojenkinsApplication {
 
 	public static void main(String[] args) {
-		SendHTMLEmail.sendEmail();
+//		SendHTMLEmail.sendEmail();
 		SpringApplication.run(DemojenkinsApplication.class, args);
 	}
 
